@@ -1,0 +1,22 @@
+{
+  "name": "bellman-ford-arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bellmanFordd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayray1194/bellman-ford-arbitrage-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayray1194/bellman-ford-arbitrage-js/issues"
+  },
+  "homepage": "https://github.com/tayray1194/bellman-ford-arbitrage-js#readme",
+  "dependencies": {
+    "decimal.js": "^10.3.1"
+  }
+}
